@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 5000
 
 # 6. Comando para ligar a aplicacao
-CMD {"python", "app.py"}
+CMD {"python", "ativ_python_calculadora2/src/calculadora.py"}
